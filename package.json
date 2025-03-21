@@ -1,0 +1,25 @@
+{
+  "name": "real-time-collaborative-editor",
+  "version": "1.0.0",
+  "description": "A real-time collaborative document editing platform with AI-assisted editing, version control, and external API integrations.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shan-nah/real-time-collaborative-editor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Shan-nah/real-time-collaborative-editor/issues"
+  },
+  "homepage": "https://github.com/Shan-nah/real-time-collaborative-editor#readme"
+}
